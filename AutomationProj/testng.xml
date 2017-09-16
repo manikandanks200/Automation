@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AutomationSuite" thread-count="3" parallel="classes"  >
+	<test name="Smoke Testcases">
+		<classes>
+			<class name="test.testsuite.TestGuru99MultipleSessions" />
+			<class name="test.testsuite.NewTest1" />
+		</classes>
+	</test>
+</suite>
