@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="12491" started-at="2017-09-20T22:42:10Z" finished-at="2017-09-20T22:42:22Z">
+  <suite name="Command line suite" duration-ms="17637" started-at="2017-10-05T20:04:42Z" finished-at="2017-10-05T20:04:59Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="12491" started-at="2017-09-20T22:42:10Z" finished-at="2017-09-20T22:42:22Z">
+    <test name="Command line test" duration-ms="17637" started-at="2017-10-05T20:04:42Z" finished-at="2017-10-05T20:04:59Z">
       <class name="test.testsuite.TestGuru99MultipleSessions">
-        <test-method status="PASS" signature="executSessionOne()[pri:0, instance:test.testsuite.TestGuru99MultipleSessions@7921b0a2]" name="executSessionOne" duration-ms="4618" started-at="2017-09-20T18:42:10Z" finished-at="2017-09-20T18:42:14Z">
+        <test-method status="PASS" signature="executSessionOne()[pri:0, instance:test.testsuite.TestGuru99MultipleSessions@7921b0a2]" name="executSessionOne" duration-ms="3647" started-at="2017-10-05T16:04:42Z" finished-at="2017-10-05T16:04:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- executSessionOne -->
-        <test-method status="PASS" signature="executSessionThree()[pri:0, instance:test.testsuite.TestGuru99MultipleSessions@7921b0a2]" name="executSessionThree" duration-ms="4849" started-at="2017-09-20T18:42:14Z" finished-at="2017-09-20T18:42:19Z">
+        <test-method status="PASS" signature="executSessionThree()[pri:0, instance:test.testsuite.TestGuru99MultipleSessions@7921b0a2]" name="executSessionThree" duration-ms="11342" started-at="2017-10-05T16:04:45Z" finished-at="2017-10-05T16:04:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- executSessionThree -->
-        <test-method status="PASS" signature="executeSessionTwo()[pri:0, instance:test.testsuite.TestGuru99MultipleSessions@7921b0a2]" name="executeSessionTwo" duration-ms="3020" started-at="2017-09-20T18:42:19Z" finished-at="2017-09-20T18:42:22Z">
+        <test-method status="PASS" signature="executeSessionTwo()[pri:0, instance:test.testsuite.TestGuru99MultipleSessions@7921b0a2]" name="executeSessionTwo" duration-ms="2621" started-at="2017-10-05T16:04:57Z" finished-at="2017-10-05T16:04:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- executeSessionTwo -->

@@ -34,7 +34,7 @@ public class CommonMethods {
 	}
  
 	public static Properties loadProperties() throws IOException{
-		FileInputStream fis=new FileInputStream("C:\\Users\\Manikandan\\workspace\\AutomationProj\\env.properties");
+		FileInputStream fis=new FileInputStream("C:\\Tools\\GitHub\\Automation\\AutomationProj\\src\\test\\resources\\env.properties");
 		prop.load(fis);
 		
 		return prop;
